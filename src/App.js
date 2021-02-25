@@ -79,6 +79,7 @@ function Product(props) {
       <h2>name:{name}</h2>
       <h1>{price}</h1>
       <button>Buy Now</button>
+
     </div>
   )
 
